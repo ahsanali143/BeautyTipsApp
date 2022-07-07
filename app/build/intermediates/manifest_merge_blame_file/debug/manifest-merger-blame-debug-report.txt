@@ -1,0 +1,534 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.reshma.beautycare"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:5:5-264:19
+12        android:allowBackup="true"
+12-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+13-->[com.android.support:support-compat:28.0.0] C:\Users\HP\.gradle\caches\transforms-3\773a44164715a527c3be598e4a38ba63\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+14        android:debuggable="true"
+15        android:extractNativeLibs="false"
+16        android:icon="@mipmap/ic_launcher"
+16-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:7:9-43
+17        android:label="@string/app_name"
+17-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:8:9-41
+18        android:supportsRtl="true"
+18-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:9:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme"
+20-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:10:9-40
+21        android:versionCode="1"
+21-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:11:9-32
+22        android:versionName="1.0" >
+22-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:12:9-34
+23        <activity
+23-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:13:9-15:40
+24            android:name="com.reshma.beautycare.Frfr"
+24-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:14:13-54
+25            android:exported="false" />
+25-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:15:13-37
+26        <activity
+26-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:16:9-26:20
+27            android:name="com.reshma.beautycare.MainActivity"
+27-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:17:13-62
+28            android:exported="true"
+28-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:18:13-36
+29            android:label="@string/app_name"
+29-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:19:13-45
+30            android:theme="@style/AppTheme.NoActionBar" >
+30-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:20:13-56
+31            <intent-filter>
+31-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:21:13-25:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:22:17-69
+32-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:22:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:24:17-77
+34-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:24:27-74
+35            </intent-filter>
+36        </activity>
+37        <activity
+37-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:27:9-31:59
+38            android:name="com.reshma.beautycare.Cleansing"
+38-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:28:13-59
+39            android:exported="false"
+39-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:29:13-37
+40            android:label="@string/title_activity_cleansing"
+40-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:30:13-61
+41            android:theme="@style/AppTheme.NoActionBar" />
+41-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:31:13-56
+42        <activity
+42-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:32:9-36:59
+43            android:name="com.reshma.beautycare.Moisturising"
+43-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:33:13-62
+44            android:exported="false"
+44-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:34:13-37
+45            android:label="@string/title_activity_moisturising"
+45-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:35:13-64
+46            android:theme="@style/AppTheme.NoActionBar" />
+46-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:36:13-56
+47        <activity
+47-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:37:9-41:59
+48            android:name="com.reshma.beautycare.Nourishing"
+48-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:38:13-60
+49            android:exported="false"
+49-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:39:13-37
+50            android:label="@string/title_activity_nourishing"
+50-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:40:13-62
+51            android:theme="@style/AppTheme.NoActionBar" />
+51-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:41:13-56
+52        <activity
+52-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:42:9-46:59
+53            android:name="com.reshma.beautycare.Toning"
+53-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:43:13-56
+54            android:exported="false"
+54-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:44:13-37
+55            android:label="@string/title_activity_toning"
+55-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:45:13-58
+56            android:theme="@style/AppTheme.NoActionBar" />
+56-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:46:13-56
+57        <activity
+57-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:47:9-51:59
+58            android:name="com.reshma.beautycare.Astringent"
+58-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:48:13-60
+59            android:exported="false"
+59-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:49:13-37
+60            android:label="@string/title_activity_astringent"
+60-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:50:13-62
+61            android:theme="@style/AppTheme.NoActionBar" />
+61-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:51:13-56
+62        <activity
+62-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:52:9-56:59
+63            android:name="com.reshma.beautycare.Acne"
+63-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:53:13-54
+64            android:exported="false"
+64-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:54:13-37
+65            android:label="@string/title_activity_acne"
+65-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:55:13-56
+66            android:theme="@style/AppTheme.NoActionBar" />
+66-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:56:13-56
+67        <activity
+67-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:57:9-61:59
+68            android:name="com.reshma.beautycare.Spots"
+68-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:58:13-55
+69            android:exported="false"
+69-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:59:13-37
+70            android:label="@string/title_activity_spots"
+70-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:60:13-57
+71            android:theme="@style/AppTheme.NoActionBar" />
+71-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:61:13-56
+72        <activity
+72-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:62:9-66:59
+73            android:name="com.reshma.beautycare.Blotchiness"
+73-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:63:13-61
+74            android:exported="false"
+74-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:64:13-37
+75            android:label="@string/title_activity_blotchiness"
+75-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:65:13-63
+76            android:theme="@style/AppTheme.NoActionBar" />
+76-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:66:13-56
+77        <activity
+77-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:67:9-71:59
+78            android:name="com.reshma.beautycare.Freckles"
+78-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:68:13-58
+79            android:exported="false"
+79-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:69:13-37
+80            android:label="@string/title_activity_freckles"
+80-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:70:13-60
+81            android:theme="@style/AppTheme.NoActionBar" />
+81-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:71:13-56
+82        <activity
+82-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:72:9-76:59
+83            android:name="com.reshma.beautycare.FaceMassage"
+83-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:73:13-61
+84            android:exported="false"
+84-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:74:13-37
+85            android:label="@string/title_activity_face_massage"
+85-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:75:13-64
+86            android:theme="@style/AppTheme.NoActionBar" />
+86-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:76:13-56
+87        <activity
+87-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:77:9-81:59
+88            android:name="com.reshma.beautycare.HomeFacial"
+88-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:78:13-60
+89            android:exported="false"
+89-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:79:13-37
+90            android:label="@string/title_activity_home_facial"
+90-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:80:13-63
+91            android:theme="@style/AppTheme.NoActionBar" />
+91-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:81:13-56
+92        <activity
+92-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:82:9-86:59
+93            android:name="com.reshma.beautycare.EyeCream"
+93-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:83:13-58
+94            android:exported="false"
+94-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:84:13-37
+95            android:label="@string/title_activity_eye_cream"
+95-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:85:13-61
+96            android:theme="@style/AppTheme.NoActionBar" />
+96-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:86:13-56
+97        <activity
+97-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:87:9-91:59
+98            android:name="com.reshma.beautycare.SparklingEyes"
+98-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:88:13-63
+99            android:exported="false"
+99-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:89:13-37
+100            android:label="@string/title_activity_sparkling_eyes"
+100-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:90:13-66
+101            android:theme="@style/AppTheme.NoActionBar" />
+101-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:91:13-56
+102        <activity
+102-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:92:9-96:59
+103            android:name="com.reshma.beautycare.Scabies"
+103-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:93:13-57
+104            android:exported="false"
+104-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:94:13-37
+105            android:label="@string/title_activity_scabies"
+105-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:95:13-59
+106            android:theme="@style/AppTheme.NoActionBar" />
+106-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:96:13-56
+107        <activity
+107-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:97:9-101:59
+108            android:name="com.reshma.beautycare.Eczema"
+108-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:98:13-56
+109            android:exported="false"
+109-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:99:13-37
+110            android:label="@string/title_activity_eczema"
+110-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:100:13-58
+111            android:theme="@style/AppTheme.NoActionBar" />
+111-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:101:13-56
+112        <activity
+112-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:102:9-106:59
+113            android:name="com.reshma.beautycare.Psoriasis"
+113-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:103:13-59
+114            android:exported="false"
+114-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:104:13-37
+115            android:label="@string/title_activity_psoriasis"
+115-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:105:13-61
+116            android:theme="@style/AppTheme.NoActionBar" />
+116-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:106:13-56
+117        <activity
+117-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:107:9-111:59
+118            android:name="com.reshma.beautycare.Dandruff"
+118-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:108:13-58
+119            android:exported="false"
+119-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:109:13-37
+120            android:label="@string/title_activity_dandruff"
+120-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:110:13-60
+121            android:theme="@style/AppTheme.NoActionBar" />
+121-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:111:13-56
+122        <activity
+122-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:112:9-116:59
+123            android:name="com.reshma.beautycare.HairConditioner"
+123-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:113:13-65
+124            android:exported="false"
+124-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:114:13-37
+125            android:label="@string/title_activity_hair_conditioner"
+125-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:115:13-68
+126            android:theme="@style/AppTheme.NoActionBar" />
+126-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:116:13-56
+127        <activity
+127-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:117:9-121:59
+128            android:name="com.reshma.beautycare.PatchyBaldness"
+128-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:118:13-64
+129            android:exported="false"
+129-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:119:13-37
+130            android:label="@string/title_activity_patchy_baldness"
+130-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:120:13-67
+131            android:theme="@style/AppTheme.NoActionBar" />
+131-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:121:13-56
+132        <activity
+132-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:122:9-126:59
+133            android:name="com.reshma.beautycare.GreyingHair"
+133-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:123:13-61
+134            android:exported="false"
+134-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:124:13-37
+135            android:label="@string/title_activity_greying_hair"
+135-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:125:13-64
+136            android:theme="@style/AppTheme.NoActionBar" />
+136-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:126:13-56
+137        <activity
+137-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:127:9-131:59
+138            android:name="com.reshma.beautycare.HairDye"
+138-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:128:13-57
+139            android:exported="false"
+139-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:129:13-37
+140            android:label="@string/title_activity_hair_dye"
+140-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:130:13-60
+141            android:theme="@style/AppTheme.NoActionBar" />
+141-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:131:13-56
+142        <activity
+142-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:132:9-136:59
+143            android:name="com.reshma.beautycare.ScrollingActivityscrub"
+143-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:133:13-72
+144            android:exported="false"
+144-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:134:13-37
+145            android:label="@string/bs"
+145-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:135:13-39
+146            android:theme="@style/AppTheme.NoActionBar" />
+146-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:136:13-56
+147        <activity
+147-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:137:9-141:59
+148            android:name="com.reshma.beautycare.HerbalBodyLotion"
+148-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:138:13-66
+149            android:exported="false"
+149-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:139:13-37
+150            android:label="@string/title_activity_herbal_body_lotion"
+150-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:140:13-70
+151            android:theme="@style/AppTheme.NoActionBar" />
+151-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:141:13-56
+152        <activity
+152-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:142:9-146:59
+153            android:name="com.reshma.beautycare.CleansingCream"
+153-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:143:13-64
+154            android:exported="false"
+154-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:144:13-37
+155            android:label="@string/title_activity_cleansing_cream"
+155-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:145:13-67
+156            android:theme="@style/AppTheme.NoActionBar" />
+156-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:146:13-56
+157        <activity
+157-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:147:9-151:59
+158            android:name="com.reshma.beautycare.AlmondOilMoisturisingCream"
+158-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:148:13-76
+159            android:exported="false"
+159-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:149:13-37
+160            android:label="@string/title_activity_almond_oil_moisturising_cream"
+160-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:150:13-81
+161            android:theme="@style/AppTheme.NoActionBar" />
+161-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:151:13-56
+162        <activity
+162-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:152:9-156:59
+163            android:name="com.reshma.beautycare.HerbCream"
+163-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:153:13-59
+164            android:exported="false"
+164-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:154:13-37
+165            android:label="@string/title_activity_herb_cream"
+165-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:155:13-62
+166            android:theme="@style/AppTheme.NoActionBar" />
+166-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:156:13-56
+167        <activity
+167-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:157:9-161:59
+168            android:name="com.reshma.beautycare.AvacadoAlmondCream"
+168-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:158:13-68
+169            android:exported="false"
+169-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:159:13-37
+170            android:label="@string/title_activity_avacado_almond_cream"
+170-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:160:13-72
+171            android:theme="@style/AppTheme.NoActionBar" />
+171-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:161:13-56
+172        <activity
+172-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:162:9-166:59
+173            android:name="com.reshma.beautycare.SunflowerCream"
+173-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:163:13-64
+174            android:exported="false"
+174-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:164:13-37
+175            android:label="@string/title_activity_sunflower_cream"
+175-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:165:13-67
+176            android:theme="@style/AppTheme.NoActionBar" />
+176-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:166:13-56
+177        <activity
+177-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:167:9-171:59
+178            android:name="com.reshma.beautycare.JasmineMoisturisingCream"
+178-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:168:13-74
+179            android:exported="false"
+179-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:169:13-37
+180            android:label="@string/title_activity_jasmine_moisturising_cream"
+180-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:170:13-78
+181            android:theme="@style/AppTheme.NoActionBar" />
+181-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:171:13-56
+182        <activity
+182-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:172:9-176:59
+183            android:name="com.reshma.beautycare.NourishingCreams"
+183-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:173:13-66
+184            android:exported="false"
+184-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:174:13-37
+185            android:label="@string/title_activity_nourishing_creams"
+185-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:175:13-69
+186            android:theme="@style/AppTheme.NoActionBar" />
+186-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:176:13-56
+187        <activity
+187-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:177:9-181:59
+188            android:name="com.reshma.beautycare.Tonics"
+188-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:178:13-56
+189            android:exported="false"
+189-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:179:13-37
+190            android:label="@string/title_activity_tonics"
+190-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:180:13-58
+191            android:theme="@style/AppTheme.NoActionBar" />
+191-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:181:13-56
+192        <activity
+192-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:182:9-186:59
+193            android:name="com.reshma.beautycare.AstringentLotions"
+193-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:183:13-67
+194            android:exported="false"
+194-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:184:13-37
+195            android:label="@string/title_activity_astringent_lotions"
+195-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:185:13-70
+196            android:theme="@style/AppTheme.NoActionBar" />
+196-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:186:13-56
+197        <activity
+197-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:187:9-191:59
+198            android:name="com.reshma.beautycare.BoilsPustules"
+198-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:188:13-63
+199            android:exported="false"
+199-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:189:13-37
+200            android:label="@string/title_activity_boils_pustules"
+200-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:190:13-66
+201            android:theme="@style/AppTheme.NoActionBar" />
+201-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:191:13-56
+202        <activity
+202-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:192:9-196:59
+203            android:name="com.reshma.beautycare.Heat"
+203-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:193:13-54
+204            android:exported="false"
+204-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:194:13-37
+205            android:label="@string/title_activity_heat"
+205-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:195:13-56
+206            android:theme="@style/AppTheme.NoActionBar" />
+206-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:196:13-56
+207        <activity
+207-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:197:9-201:59
+208            android:name="com.reshma.beautycare.FaceMask"
+208-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:198:13-58
+209            android:exported="false"
+209-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:199:13-37
+210            android:label="@string/title_activity_face_mask"
+210-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:200:13-61
+211            android:theme="@style/AppTheme.NoActionBar" />
+211-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:201:13-56
+212        <activity
+212-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:202:9-206:59
+213            android:name="com.reshma.beautycare.TeethCleanser"
+213-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:203:13-63
+214            android:exported="false"
+214-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:204:13-37
+215            android:label="@string/title_activity_teeth_cleanser"
+215-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:205:13-66
+216            android:theme="@style/AppTheme.NoActionBar" />
+216-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:206:13-56
+217        <activity
+217-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:207:9-211:59
+218            android:name="com.reshma.beautycare.MouthWash"
+218-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:208:13-59
+219            android:exported="false"
+219-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:209:13-37
+220            android:label="@string/title_activity_mouth_wash"
+220-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:210:13-62
+221            android:theme="@style/AppTheme.NoActionBar" />
+221-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:211:13-56
+222        <activity
+222-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:212:9-216:59
+223            android:name="com.reshma.beautycare.CleansingLotion"
+223-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:213:13-65
+224            android:exported="false"
+224-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:214:13-37
+225            android:label="@string/title_activity_cleansing_lotion"
+225-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:215:13-68
+226            android:theme="@style/AppTheme.NoActionBar" />
+226-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:216:13-56
+227        <activity
+227-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:217:9-221:59
+228            android:name="com.reshma.beautycare.DanduffRemedy"
+228-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:218:13-63
+229            android:exported="false"
+229-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:219:13-37
+230            android:label="@string/title_activity_danduff_remedy"
+230-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:220:13-66
+231            android:theme="@style/AppTheme.NoActionBar" />
+231-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:221:13-56
+232        <activity
+232-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:222:9-226:59
+233            android:name="com.reshma.beautycare.HairConditioner2"
+233-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:223:13-66
+234            android:exported="false"
+234-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:224:13-37
+235            android:label="@string/title_activity_hair_conditioner2"
+235-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:225:13-69
+236            android:theme="@style/AppTheme.NoActionBar" />
+236-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:226:13-56
+237        <activity
+237-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:227:9-231:59
+238            android:name="com.reshma.beautycare.PatchyRemedies"
+238-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:228:13-64
+239            android:exported="false"
+239-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:229:13-37
+240            android:label="@string/title_activity_patchy_remedies"
+240-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:230:13-67
+241            android:theme="@style/AppTheme.NoActionBar" />
+241-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:231:13-56
+242        <activity
+242-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:232:9-236:59
+243            android:name="com.reshma.beautycare.GreyHairRemedies"
+243-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:233:13-66
+244            android:exported="false"
+244-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:234:13-37
+245            android:label="@string/title_activity_grey_hair_remedies"
+245-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:235:13-70
+246            android:theme="@style/AppTheme.NoActionBar" />
+246-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:236:13-56
+247        <activity
+247-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:237:9-241:59
+248            android:name="com.reshma.beautycare.HairdyePrecaution"
+248-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:238:13-67
+249            android:exported="false"
+249-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:239:13-37
+250            android:label="@string/title_activity_hairdye_precaution"
+250-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:240:13-70
+251            android:theme="@style/AppTheme.NoActionBar" />
+251-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:241:13-56
+252        <activity
+252-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:242:9-246:59
+253            android:name="com.reshma.beautycare.HerbalHairdye"
+253-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:243:13-63
+254            android:exported="false"
+254-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:244:13-37
+255            android:label="@string/title_activity_herbal_hairdye"
+255-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:245:13-66
+256            android:theme="@style/AppTheme.NoActionBar" />
+256-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:246:13-56
+257        <activity
+257-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:247:9-251:59
+258            android:name="com.reshma.beautycare.HomemadeShampoos"
+258-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:248:13-66
+259            android:exported="false"
+259-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:249:13-37
+260            android:label="@string/title_activity_homemade_shampoos"
+260-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:250:13-69
+261            android:theme="@style/AppTheme.NoActionBar" />
+261-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:251:13-56
+262        <activity
+262-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:252:9-256:59
+263            android:name="com.reshma.beautycare.HairSetting"
+263-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:253:13-61
+264            android:exported="false"
+264-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:254:13-37
+265            android:label="@string/title_activity_hair_setting"
+265-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:255:13-64
+266            android:theme="@style/AppTheme.NoActionBar" />
+266-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:256:13-56
+267        <activity
+267-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:257:9-263:20
+268            android:name="com.reshma.beautycare.GlossaryList"
+268-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:258:13-62
+269            android:exported="false"
+269-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:259:13-37
+270            android:label="@string/title_activity_glossary_list"
+270-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:260:13-65
+271            android:theme="@style/AppTheme.NoActionBar" >
+271-->D:\AndroidStudioProjects\BeautyCare\app\src\main\AndroidManifest.xml:261:13-56
+272        </activity>
+273    </application>
+274
+275</manifest>

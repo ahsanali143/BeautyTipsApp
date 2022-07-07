@@ -1,0 +1,950 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_bath.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\fragment_bath.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_teeth.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\fragment_teeth.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_nourishing.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\nourishing.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_pin.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\pin.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_horsetail.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\horsetail.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_basil.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\basil.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_fullers_earth.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\fullers_earth.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_hair_setting.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_hair_setting.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_rosewater.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\rosewater.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_hair_conditioner2.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_hair_conditioner2.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_mouth_wash.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_mouth_wash.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_shampoo.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\fragment_shampoo.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_herb_cream.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_herb_cream.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_grassdew.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\grassdew.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_tips.png.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\tips.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_turmeric.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\turmeric.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_bergamotoil.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\bergamotoil.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_patchy_baldness.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_patchy_baldness.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_lips.png.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\lips.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_lavender.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\lavender.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_hairdye2.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\hairdye2.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_eyecream.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\eyecream.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_almond_oil_moisturising_cream.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_almond_oil_moisturising_cream.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_nourishing_creams.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_nourishing_creams.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_danduff_remedy.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_danduff_remedy.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_sesameoil.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\sesameoil.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_toning.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_toning.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_skin_problem.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\fragment_skin_problem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_greenbrush.png.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\greenbrush.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_face_mask.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_face_mask.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_spots.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_spots.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_eye1.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\eye1.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_tonics.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_tonics.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_acne.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_acne.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_boils_pustules.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_boils_pustules.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_teeth.png.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\teeth.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_spots.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_spots.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_herbal_body_lotion.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\menu\\menu_herbal_body_lotion.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_boils_pustules.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_boils_pustules.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_glossary.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\fragment_glossary.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_nourishing.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_nourishing.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_hair_conditioner2.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_hair_conditioner2.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_teeth_cleanser.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_teeth_cleanser.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_sunflower_cream.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_sunflower_cream.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_greyhair2.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\greyhair2.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_cleansing.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_cleansing.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_glossary_list.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_glossary_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_hair_dye.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_hair_dye.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_eye_cream.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_eye_cream.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_facialhair.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\facialhair.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_face_massage.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_face_massage.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_pricklyheatsun.png.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\pricklyheatsun.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_skin.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\fragment_skin.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_skinproblem.png.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\skinproblem.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_nourishing_creams.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_nourishing_creams.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_nourishing.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_nourishing.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_hair_setting.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_hair_setting.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_nav_header_main.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_moisturising.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_moisturising.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_avocadooil.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\avocadooil.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_astringent_lotions.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_astringent_lotions.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_cornoil.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\cornoil.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_toning.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_toning.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_hairdye_precaution.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_hairdye_precaution.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_moisturising.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_moisturising.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_frfr.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_frfr.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_facemassage.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\facemassage.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_face_massage.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_face_massage.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_petroleumjelly.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\petroleumjelly.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_tonics.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\menu\\menu_tonics.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_shampoo.png.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\shampoo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_home_facial.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_home_facial.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_face_mask.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_face_mask.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_bicarbonateofsoda.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\bicarbonateofsoda.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_eyes.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\fragment_eyes.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_barley.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\barley.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_redflower.png.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\redflower.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_feedback.png.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\feedback.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_henna.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\henna.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_tonics.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_tonics.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_frfr.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_frfr.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_blotchiness.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_blotchiness.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_astringent_lotions.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_astringent_lotions.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_heat.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_heat.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_eye_cream.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_eye_cream.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_herb_cream.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_herb_cream.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_dyebrush.png.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\dyebrush.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_danduff_remedy.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_danduff_remedy.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_teeth2.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\teeth2.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_grey_hair_remedies.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_grey_hair_remedies.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_astringent.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_astringent.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_hair.png.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\hair.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_nourishing_creams.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\menu\\menu_nourishing_creams.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_patchybald.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\patchybald.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_prickly_heat.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\menu\\menu_prickly_heat.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_dandelion.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\dandelion.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_logopage.png.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\logopage.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_ic_menu_send.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_glossary_list.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_glossary_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_grey_hair_remedies.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_grey_hair_remedies.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_jasmine_moisturising_cream.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_jasmine_moisturising_cream.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_benzoin.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\benzoin.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_main.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_freckles.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\freckles.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_scrolling_activityscrub.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_scrolling_activityscrub.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_soapwortroot.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\soapwortroot.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_homefacial.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\homefacial.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_hairconditioner.png.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\hairconditioner.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_raspberry.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\raspberry.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_scabies.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_scabies.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_eczema.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_eczema.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_heat.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_heat.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_hollyhock.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\hollyhock.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_facial.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\fragment_facial.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_bath1.png.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\bath1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_sparkling_eyes.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_sparkling_eyes.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_avacado_almond_cream.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_avacado_almond_cream.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_oak.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\oak.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\menu_main.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_scrolling_activityscrub.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_scrolling_activityscrub.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_scrolling_activityscrub.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\menu\\menu_scrolling_activityscrub.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_skin.png.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\skin.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_cleansing_cream.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\menu\\menu_cleansing_cream.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_cocoabutter.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\cocoabutter.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_homemade_shampoos.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_homemade_shampoos.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_applecidervinegar.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\applecidervinegar.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_astringent2.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\astringent2.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_greying.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\greying.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_acne.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_acne.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_blotchiness.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_blotchiness.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_eyes.png.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\eyes.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_ic_menu_share.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_oatmeal.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\oatmeal.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_home_facial.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_home_facial.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_astringent_lotions.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\menu\\menu_astringent_lotions.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_jasmine_moisturising_cream.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_jasmine_moisturising_cream.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_camomile.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\camomile.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_toning.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\toning.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_about.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_marigold.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\marigold.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_logopage.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\fragment_logopage.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_hair_conditioner.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_hair_conditioner.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_homemade_shampoos.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_homemade_shampoos.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_comfrey.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\comfrey.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_pricklyheat.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\pricklyheat.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_emulsifyingwax.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\emulsifyingwax.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_patchy_baldness.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_patchy_baldness.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_boils_pustules.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\menu\\menu_boils_pustules.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_lips.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\fragment_lips.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_psoriasis.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_psoriasis.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_lecithin.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\lecithin.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_almond_oil_moisturising_cream.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_almond_oil_moisturising_cream.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_avacado_almond_cream.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_avacado_almond_cream.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_hair.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\fragment_hair.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_dandruff.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_dandruff.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_indianlilac.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\indianlilac.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_customlistadapter.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\customlistadapter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_app_bar_main.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_lanolin.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\lanolin.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_facepackimage.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\facepackimage.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_dandruff.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\dandruff.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_hairbrush.png.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\hairbrush.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_cleansing.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_cleansing.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_teeth_cleanser.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_teeth_cleanser.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_hairshampoo.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\hairshampoo.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_bath.png.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\bath.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_sparklingeyes.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\sparklingeyes.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_herbal_body_lotion.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_herbal_body_lotion.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_facial_treatment.png.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\facial_treatment.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_greying_hair.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_greying_hair.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_scabies.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_scabies.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_sunflower_cream.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_sunflower_cream.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_acne.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\acne.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_cleansing.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\cleansing.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_hairdye_precaution.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_hairdye_precaution.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_borax.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\borax.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_mouth_wash.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_mouth_wash.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_oleander.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\oleander.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_honey.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\honey.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_sparkling_eyes.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_sparkling_eyes.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_cleansing_cream.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_cleansing_cream.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_wheatgermoil.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\wheatgermoil.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_hospital.png.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\hospital.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_lips100.png.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\lips100.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_tealeaves.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\tealeaves.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_psoriasis.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_psoriasis.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_cleansing_lotion.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_cleansing_lotion.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_blotch.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\blotch.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_beeswax.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\beeswax.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_witchhazel.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\witchhazel.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_freckles.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_freckles.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_patchy_remedies.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_patchy_remedies.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_facepackapply.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\facepackapply.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_freckles.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_freckles.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_saffloweroil.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\saffloweroil.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_linseed.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\linseed.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_skininflammation.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\fragment_skininflammation.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_patchy_remedies.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_patchy_remedies.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_mylist.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\mylist.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_boils.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\boils.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_gelatine.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\gelatine.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_greying_hair.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_greying_hair.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_eczema.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_eczema.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_herbal_hairdye.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_herbal_hairdye.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_herbal_hairdye.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_herbal_hairdye.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_dandruff.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_dandruff.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_astringent.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_astringent.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_herbal_body_lotion.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_herbal_body_lotion.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_elderflower.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\elderflower.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_cleansing_lotion.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_cleansing_lotion.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_lotion.png.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\lotion.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_about.png.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\about.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_amla.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\amla.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_spots.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\spots.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_hairdye.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\hairdye.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_mouth1.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\mouth1.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_hair_dye.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_hair_dye.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_ic_menu_manage.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_content_hair_conditioner.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\content_hair_conditioner.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_oliveoil.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\oliveoil.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_cleansing_cream.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\layout\\activity_cleansing_cream.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_brewersyeast.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\brewersyeast.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_kaolin.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\kaolin.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_blackberry.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\blackberry.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_skin_inflammation.png.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\skin_inflammation.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BeautyCare\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_moisturising.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\BeautyCare\\app\\src\\main\\res\\drawable-v21\\moisturising.jpg"
+    }
+]

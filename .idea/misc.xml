@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_acne.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_almond_oil_moisturising_cream.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_astringent.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_astringent_lotions.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_avacado_almond_cream.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_blotchiness.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_boils_pustules.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_cleansing.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_cleansing_cream.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_cleansing_lotion.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_dandruff.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_danduff_remedy.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_eczema.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_eye_cream.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_face_mask.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_face_massage.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_freckles.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_frfr.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_glossary_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_grey_hair_remedies.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_greying_hair.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_hair_conditioner.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_hair_conditioner2.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_hair_dye.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_hair_setting.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_hairdye_precaution.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_heat.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_herb_cream.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_herbal_body_lotion.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_herbal_hairdye.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_home_facial.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_homemade_shampoos.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_jasmine_moisturising_cream.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_moisturising.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_mouth_wash.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_nourishing.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_nourishing_creams.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_patchy_baldness.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_patchy_remedies.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_psoriasis.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_scabies.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_scrolling_activityscrub.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_sparkling_eyes.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_spots.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_sunflower_cream.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_teeth_cleanser.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_tonics.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/activity_toning.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/app_bar_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_acne.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_almond_oil_moisturising_cream.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_astringent.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_astringent_lotions.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_avacado_almond_cream.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_blotchiness.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_boils_pustules.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_cleansing.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_cleansing_cream.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_cleansing_lotion.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_dandruff.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_danduff_remedy.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_eczema.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_eye_cream.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_face_mask.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_face_massage.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_freckles.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_frfr.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_glossary_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_grey_hair_remedies.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_greying_hair.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_hair_conditioner.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_hair_conditioner2.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_hair_dye.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_hair_setting.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_hairdye_precaution.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_heat.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_herb_cream.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_herbal_body_lotion.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_herbal_hairdye.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_home_facial.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_homemade_shampoos.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_jasmine_moisturising_cream.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_moisturising.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_mouth_wash.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_nourishing.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_nourishing_creams.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_patchy_baldness.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_patchy_remedies.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_psoriasis.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_scabies.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_scrolling_activityscrub.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_sparkling_eyes.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_spots.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_sunflower_cream.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_teeth_cleanser.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_tonics.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/content_toning.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/customlistadapter.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/fragment_about.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/fragment_bath.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/fragment_eyes.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/fragment_facial.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/fragment_glossary.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/fragment_hair.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/fragment_lips.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/fragment_logopage.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/fragment_shampoo.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/fragment_skin.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/fragment_skin_problem.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/fragment_skininflammation.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/fragment_teeth.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/mylist.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/layout/nav_header_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/menu/main.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/menu/menu_astringent_lotions.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/menu/menu_boils_pustules.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/menu/menu_cleansing_cream.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/menu/menu_herbal_body_lotion.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/menu/menu_nourishing_creams.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/menu/menu_prickly_heat.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/menu/menu_scrolling_activityscrub.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/BeautyCare/app/src/main/res/menu/menu_tonics.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
