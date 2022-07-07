@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BeautyCare.iml" filepath="$PROJECT_DIR$/.idea/modules/BeautyCare.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BeautyCare.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BeautyCare.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BeautyCare.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BeautyCare.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BeautyCare.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BeautyCare.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BeautyCare.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BeautyCare.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BeautyTipsApp.iml" filepath="$PROJECT_DIR$/.idea/modules/BeautyTipsApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BeautyTipsApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BeautyTipsApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BeautyTipsApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BeautyTipsApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BeautyTipsApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BeautyTipsApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BeautyTipsApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BeautyTipsApp.app.unitTest.iml" />
     </modules>
   </component>
 </project>
